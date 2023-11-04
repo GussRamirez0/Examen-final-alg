@@ -1,0 +1,4 @@
+Nombre del estudiante: Luis Gustavo Ramirez Berganza
+Notas: 100.0, 100.0, 100.0, 100.0
+Promedio: 100.0
+
